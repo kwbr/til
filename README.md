@@ -9,6 +9,7 @@ Hashrockets [til] project is the inspiration for this repository.
 * https://github.com/thoughtbot/til
 * https://github.com/jwworth/til
 * https://github.com/jbranchaud/til
+* https://github.com/simonw/til
 
 # License
 
